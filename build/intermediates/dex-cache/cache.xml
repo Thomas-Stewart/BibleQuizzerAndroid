@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rogerhull/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/rogerhull/AndroidStudioProjects/BibleQuizzer/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-7b777fe8c064be573343adc2ca07faedebf9bc63.jar" />
+    </item>
+    <item
+        jar="/Users/rogerhull/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/rogerhull/AndroidStudioProjects/BibleQuizzer/app/build/intermediates/pre-dexed/debug/okio-1.2.0-a157b5d3339bcf141576a5fe059623eb057ff93f.jar" />
+    </item>
+
+</items>
